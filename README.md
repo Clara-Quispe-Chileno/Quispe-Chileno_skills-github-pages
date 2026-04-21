@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations cq2024080129-ship-it! 🎉
+# 🎉 Congratulations Clara B. M. Quispe Chileno! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
