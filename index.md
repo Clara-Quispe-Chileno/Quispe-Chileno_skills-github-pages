@@ -53,3 +53,4 @@ Para profundizar en las especificaciones y métricas de rendimiento, consulte la
 * [**Especificaciones de API**](#) - Definiciones técnicas bajo estándares gRPC y OpenAPI.
 
 ---
+
