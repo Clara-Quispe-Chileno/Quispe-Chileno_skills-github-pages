@@ -1,7 +1,5 @@
 import os
 
-hacker_md = """# < / > Harder. Better. Faster. Stronger.
-
 No estamos aquí para "gestionar soluciones"; estamos aquí para **construir**. Este es un rincón para los que prefieren una terminal a una presentación de diapositivas y el código elegante a las promesas vacías.
 
 ---
@@ -45,8 +43,6 @@ Si tienes un repositorio que da vergüenza ajena o una idea que parece imposible
 
 [Mis Repos](#) | [Wiki de Notas](#) | [El rincón de los errores](#)
 
----
-*Hecho con cafeína y test unitarios (a veces).*
 """
 
 # Save the file
