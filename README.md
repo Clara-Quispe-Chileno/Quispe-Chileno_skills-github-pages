@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations Clara Quispe Chileno! 🎉
+# 🎉 Congratulations Clara-Quispe-Chileno! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
